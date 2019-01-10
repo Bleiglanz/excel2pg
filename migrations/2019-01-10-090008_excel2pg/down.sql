@@ -1,0 +1,1 @@
+DROP TABLE excel2pg CASCADE;
